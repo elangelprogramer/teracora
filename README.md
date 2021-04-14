@@ -1,0 +1,2 @@
+# teracora
+programador y ubicacion
